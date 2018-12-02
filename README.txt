@@ -2,11 +2,10 @@ Application for reading HTML files and extracting logger numbers.
 
 Instructions for use:
 
-1) Navigate to DataScraper/Scripts/dist 
-2) Run Main.exe
-3) Download relevant HTML file
-4) Input fields- copy whole path to input and output files, including .html and .xlsx extensions
-5) Click GO!
+1) Run script
+2) Download relevant HTML file
+3) Input fields- copy whole path to input and output files, including .html and .xlsx extensions
+4) Click GO!
 
 
 Notes: 
