@@ -11,4 +11,4 @@ Instructions for use:
 Notes: 
 Row number of start of table is where the program will start to paste the data logger numbers into- from
 there down.
-
+Requires Python 3.7.
